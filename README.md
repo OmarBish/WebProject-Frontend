@@ -11,7 +11,7 @@
 > See [project-backend](https://github.com/khtsat/WebProject-Backend) to see how to setup the server
 3. run npm server
     ```sh
-    npm run serve
+    npm run dev
     ```
 
 ## Useful links
